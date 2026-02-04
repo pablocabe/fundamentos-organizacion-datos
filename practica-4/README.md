@@ -1,0 +1,2 @@
+**⚠️ Aclaración**
+> Solo hice la parte 2. En todos los árboles creo que tengo un error que arrastré durante toda la práctica y corregí sobre la fecha del parcial: cuando elegís un orden de escritura después tenés que respetarlo hasta terminar ese ejercicio. Si por ejemplo al detallar las operaciones en tu primer caso con overflow elegiste escribir izquierdo, derecho, padre entonces ese va a ser tu orden de escritura durante todo el ejercicio.
